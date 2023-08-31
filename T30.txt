@@ -1,0 +1,15 @@
+Harvard
+Yale
+Princeton
+Stanford
+Massachusetts Institute of Technology
+University of Chicago
+Columbia
+Pennsylvania
+Northwestern
+Duke
+California Institute of Technology
+Brown
+Cornell
+Dartmouth
+Johns Hopkins
